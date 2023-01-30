@@ -1,10 +1,10 @@
 import './App.css';
-import Context from './useContext';
+import Reducer from './useReducer';
 
 function App() {
   return (
     <div className="App">
-      <Context />
+      <Reducer />
     </div>
   );
 }
