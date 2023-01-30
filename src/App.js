@@ -1,10 +1,10 @@
 import './App.css';
-import Memo from './useMemo';
+import Ref from './useRef';
 
 function App() {
   return (
     <div className="App">
-      <Memo />
+      <Ref />
     </div>
   );
 }
