@@ -1,10 +1,10 @@
 import './App.css';
-import Ref from './useRef';
+import Context from './useContext';
 
 function App() {
   return (
     <div className="App">
-      <Ref />
+      <Context />
     </div>
   );
 }
