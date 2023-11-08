@@ -1,10 +1,10 @@
 import './App.css';
-import Reducer from './useReducer';
+import ContextReducer from './useContextReducer';
 
 function App() {
   return (
     <div className="App">
-      <Reducer />
+      <ContextReducer />
     </div>
   );
 }
